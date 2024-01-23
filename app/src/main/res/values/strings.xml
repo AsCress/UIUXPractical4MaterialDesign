@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UIUXPractical4MaterialDesign</string>
+
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Swift</item>
+        <item>C#</item>
+        <item>SQL</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+        <item>C++</item>
+    </string-array>
+
+    <array name="LanguagesImg">
+        <item>@drawable/java</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/csharp</item>
+        <item>@drawable/sql</item>
+        <item>@drawable/js</item>
+        <item>@drawable/jquery</item>
+        <item>@drawable/cplus</item>
+    </array>
+</resources>
